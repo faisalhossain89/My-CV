@@ -1,0 +1,107 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+body{
+
+    background-color:#EEE;
+    font-family: 'EB Garamond', serif;
+}
+.container{
+    max-width:1000px;
+background-color:#CEF6F5;
+margin:0 auto;
+padding:20px;
+}
+header{
+
+}
+.prof-img{
+    height:120px;
+    width:100px;
+    border: 3px solid white;
+    border-radius: 50px;
+float:left;
+}
+.header-bio{
+float:left;
+padding: 30px;
+}
+h1,h2{
+
+
+}
+
+.contract{
+    float:right;
+    text-decoration:none;
+    padding: 30px;
+
+}
+.contract a{
+    text-decoration:none;
+    color:violet;
+    font-weight: bold;
+
+}
+.contract a:hover{
+    text-decoration: underline;
+    color: tomato;
+
+}
+.clear{
+    clear:both;
+}
+hr{
+border: solid black 2px;
+}
+.content{
+
+}
+.content-div1{
+    width:20%;
+    float:left;
+    padding: 10px;
+    text-align:left;
+
+}
+.content-div2{
+    width:80;
+   float:left;
+    padding: 10px;
+    text-align:left;
+}
+.content-div2 a{
+    text-decoration: none;
+}
+.common-hr{
+    border:solid black 1px;
+    border-bottom: none;
+    margin:20px auto;
+    max-width:100%
+
+}
+
+.eduction-div-right1{
+    max-width:80%;
+    padding: 10px;
+    marginr:20px auto;
+    float:right;
+    }
+    .eduction-div-right1 a{
+        text-decoration: none;
+        
+        }
+
+ .bottom-container{
+     background-color: rgb(218, 173, 173);
+     text-align: center;
+     padding: 10px;;
+ }
+ .bottom-container a{
+    text-decoration:none;
+}
+
+
+
